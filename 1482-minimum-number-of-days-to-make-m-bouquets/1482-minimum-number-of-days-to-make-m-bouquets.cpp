@@ -1,35 +1,33 @@
 class Solution {
 public:
-    bool func(vector<int>& bloomDay, int m, int k, int mid) {
-        // m==no of bouquet
-        // k==no of adjcent flowers
-
-        int count = 0;
-        int temp = 0;
-        int n = bloomDay.size();
-        for (int i = 0; i < n; i++) {
-            if (bloomDay[i] <= mid) {
-                temp++;
+    bool check(vector<int>& bloomDay, int mid, int m, int k) {
+        int consequitive = 0;
+        int bou = 0;
+        for (int p : bloomDay) {
+            if (p <= mid) {
+                consequitive++;
+                if (consequitive == k) {
+                    bou++;
+                    consequitive = 0;
+                }
             } else {
-                // temp is the no of adjcent elements till i-1
-                count += temp / k;
-                temp = 0;
+                consequitive =
+                    0; // this flower will be bloomed after mid number of days
             }
         }
-        count += temp / k;
-        return count >= m;
+        return bou >= m;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int low = 1;
+
+        int low = *min_element(bloomDay.begin(), bloomDay.end());
         int high = *max_element(bloomDay.begin(), bloomDay.end());
+        long long req = m * 1LL * k;
         int ans = -1;
-        long long res = m;
-        res *= k;
-        if (res > bloomDay.size())
+        if (bloomDay.size() < req)
             return -1;
         while (low <= high) {
-            long long mid = (low + high) / 2;
-            if (func(bloomDay, m, k, mid)) {
+            int mid = low + (high - low) / 2;
+            if (check(bloomDay, mid, m, k)) {
                 ans = mid;
                 high = mid - 1;
             } else {
