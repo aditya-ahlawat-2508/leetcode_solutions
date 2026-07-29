@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
