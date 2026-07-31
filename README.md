@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
