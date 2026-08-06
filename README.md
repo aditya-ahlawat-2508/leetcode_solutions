@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
+| [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
+| [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 ## String
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Sorting
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
