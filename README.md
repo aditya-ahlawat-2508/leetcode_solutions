@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [3620-network-recovery-pathways](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -93,10 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
