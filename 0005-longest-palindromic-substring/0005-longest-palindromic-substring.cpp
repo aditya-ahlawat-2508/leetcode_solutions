@@ -1,42 +1,30 @@
 class Solution {
 public:
-
-    bool solve(string &s, int i, int j)
-    {
-        while(i < j)
-        {
-            if(s[i] != s[j])
-                return false;
-
-            i++;
-            j--;
+    string expand(string& s, int left, int right) {
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            left--; // Expand outward [15, 18]
+            right++;
         }
-
-        return true;
+        // Return the valid palindrome found
+        return s.substr(left + 1, right - left - 1); // right==4,left==0. for ex 1
     }
 
-    string longestPalindrome(string s)
-    {
-        int n = s.length();
+    string longestPalindrome(string s) {
+        if (s.length() <= 1)
+            return s;
+        string maxStr = s.substr(0, 1);
 
-        int maxLen = INT_MIN;
-        int sp = 0;
+        for (int i = 0; i < s.length() - 1; i++) {
+            // Try odd length expansion [15]
+            string odd = expand(s, i, i);
+            if (odd.length() > maxStr.length())
+                maxStr = odd;
 
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = i; j < n; j++)
-            {
-                if(solve(s, i, j))
-                {
-                    if(j - i + 1 > maxLen)
-                    {
-                        maxLen = j - i + 1;
-                        sp = i;
-                    }
-                }
-            }
+            // Try even length expansion [15]
+            string even = expand(s, i, i + 1);
+            if (even.length() > maxStr.length())
+                maxStr = even;
         }
-
-        return s.substr(sp, maxLen);
+        return maxStr;
     }
 };
