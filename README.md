@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
