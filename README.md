@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0012-integer-to-roman) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
