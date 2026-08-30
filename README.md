@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Manacher
 |  |
