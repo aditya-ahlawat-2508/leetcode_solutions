@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
