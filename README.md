@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -288,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
