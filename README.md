@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3620-network-recovery-pathways](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
