@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
