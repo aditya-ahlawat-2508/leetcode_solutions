@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0130-surrounded-regions](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0733-flood-fill) |
