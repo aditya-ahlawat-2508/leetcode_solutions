@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Stack
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -340,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
