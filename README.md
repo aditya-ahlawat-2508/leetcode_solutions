@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Quicksort
@@ -323,9 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Number Theory
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->
