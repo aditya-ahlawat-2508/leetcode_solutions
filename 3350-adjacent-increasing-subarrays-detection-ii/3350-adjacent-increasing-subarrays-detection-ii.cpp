@@ -1,33 +1,41 @@
 class Solution {
 public:
-    int maxIncreasingSubarrays(vector<int>& nums) {
-        /*
-        nums-->n ints
-        max value of k for which there exist two adjcent subarrays of length k
-        each both subarrays strictly increasing specifically check there are two
-        subarrays of length k starting at indices
-        */
-        int up = 1;
-        int prevUp = 1;
-        int res = 1;
-        for (int i = 1; i < nums.size(); i++) {
-            if(nums[i]>nums[i-1]){
-                up++;
-            }else{
-                prevUp=up;
-                up=1;
+bool check(int l, int r,int k,vector<int>&left,vector<int>&right){
 
-            }
-            int half=up/2;
-            int m=min(up,prevUp);
-            int cand=max(m,half);
-            if(cand>res){
-             res=cand;
-            }
-
+    for(int i=1;i<left.size();i++){
+        if(left[i-1] >=k && right[i] >= k){
+            return true;
         }
-        return res;
     }
-
+    return false;
 }
-;
+    int maxIncreasingSubarrays(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>left(n,1);
+        vector<int>right(n,1);
+        for(int i=1;i<n;i++){
+            if(nums[i]>nums[i-1]){
+                left[i]=left[i-1]+1;
+            }
+        }
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                right[i]=right[i+1]+1;
+            }
+        }
+        // now we have the left and right subarrays which consist of the maximum subaarays ending at a particular index
+        int l=1;
+        int h=n/2;
+        int ans=1;
+        while(l<=h){
+            int mid=(l+h)/2;
+            if(check(l,h,mid,left,right)){
+                ans=mid;
+                l=mid+1;
+            }else{
+                h=mid-1;
+            }
+        }
+        return ans;
+    }
+};
