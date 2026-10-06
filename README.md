@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0846-hand-of-straights](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0735-asteroid-collision](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-ahlawat-2508/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
